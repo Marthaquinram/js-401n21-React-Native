@@ -20,4 +20,5 @@ Lab/Coding Session #2 - Add in the device features, polish, and prepare for depl
 
   # Local Android device
 
-  ![Map]()
+  ![Map](expoMap.jpg)
+  ![2ndMap](Mapexpo.PNG)
